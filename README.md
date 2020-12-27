@@ -1,7 +1,8 @@
 ### Hi there, I'm [Rachit!](https://github.com/webdevrachit) 👋
 
-<!--
-**webdevrachit/webdevrachit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/rachittandon12">
+  <img align="left" alt="Rachit Tandon | Twitter" width="21px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
+</a>
 
 Here are some ideas to get you started:
 
