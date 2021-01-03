@@ -4,6 +4,7 @@
 [![twitter badge](https://img.shields.io/badge/@Rachit_tandon-30302f?style=flat&logo=twitter)](https://twitter.com/rachittandon12)
 [![Gmail Badge](https://img.shields.io/badge/Rachit_Tandon-30302f?style=flat&logo=gmail)](mailto:rachittandon1201@gmail.com)
 
+<img alt="Rachit tandon" align="right" src="https://raw.githubusercontent.com/webdevrachit/webdevrachit/master/download.jpg" width="400px"/>
 
 
 - 🔭 I’m currently working on Web development projects.
