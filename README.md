@@ -1,9 +1,6 @@
 ### Hi there, I'm [Rachit!](https://github.com/webdevrachit) 👋
 
-<a href="https://twitter.com/rachittandon12">
-  <img align="left" alt="Rachit Tandon | Twitter" width="21px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
-</a>
-
+[![linkedin badge](https://img.shields.io/badge/rachit-tandon-3a2733171/?style=flat&logo=linkedin)](https://www.linkedin.com/in/rachit-tandon12)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
