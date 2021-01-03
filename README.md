@@ -1,7 +1,9 @@
 ### Hi there, I'm [Rachit!](https://github.com/webdevrachit) 👋
 
-[![linkedin badge](https://img.shields.io/badge/rachit_tandon-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/rachit-tandon12)
-[![twitter badge](https://img.shields.io/badge/@rachit_tandon-30302f?style=flat&logo=twitter)](https://twitter.com/rachittandon12)
+[![linkedin badge](https://img.shields.io/badge/Rachit_tandon-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/rachit-tandon12)
+[![twitter badge](https://img.shields.io/badge/@Rachit_tandon-30302f?style=flat&logo=twitter)](https://twitter.com/rachittandon12)
+[![Gmail Badge](https://img.shields.io/badge/Rachit_Tandon-30302f?style=flat&logo=gmail)](mailto:rachittandon1201@gmail.com)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
