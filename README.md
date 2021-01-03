@@ -1,6 +1,6 @@
 ### Hi there, I'm [Rachit!](https://github.com/webdevrachit) 👋
 
-[![linkedin badge](https://img.shields.io/badge/rachit-tandon-3a2733171/?style=flat&logo=linkedin)](https://www.linkedin.com/in/rachit-tandon12)
+[![linkedin badge](https://img.shields.io/badge/rachit-tandon12?style=flat&logo=linkedin)](https://www.linkedin.com/in/rachit-tandon12)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
