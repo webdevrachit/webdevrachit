@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on Web development projects.
 - 👯 I’m looking to collaborate on Development projects and hackathons.
 - 💬 Ask me about anything, I'm happy to help!
+- In my free time I play guitar and read books.
 
 <h3>Tech Stack</h3>
 <p align="left">
@@ -18,3 +19,6 @@
 
  </p>
 <p align = 'center'> 
+<a href="https://github.com/webdevrachit/webdevrachit">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=webdevrachit&count_private=true&theme=radical" alt="Rachit's github stats" />
+</a>
